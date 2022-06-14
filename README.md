@@ -9,3 +9,6 @@ Treinamentos ministrados por: Otávio Reis Perkles e Venilton Falvo Jr.
 
 ## Links Úteis
 [Sintaxe Basica Markedown](https://markdownguide.org/basic-syntax/)
+
+[Instalação do Git](http://git-scm.com)
+
